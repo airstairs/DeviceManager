@@ -25,4 +25,7 @@ pro tip... if you mess up uninstall run installer again until desktop menu item 
 
 
 
-pro tip... i made this one for the creator of 5.7 mini pc with keyboard <3 ybty
+pro tip... i made this one for the creator of 5.7 mini pc with keyboard <3 ybty   
+
+
+pro tip... see example_imports for three different devicemanager exports you can try one with 28 devices and no attrbts 1 with attributes and one with a decive successfully set up and registered as complete in device manager for inspiration on what you might want in yours <3
