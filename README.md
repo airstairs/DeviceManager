@@ -5,4 +5,7 @@ Easily manage large quantities of devices using Device Manager available for Win
 ![ic](icon.png)  
 
 
-![rec](recording.gif)   
+
+<img src="recording.gif" style="width:250px;">    
+
+
