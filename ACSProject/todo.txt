@@ -1,0 +1,3 @@
+build android apk and test
+
+make icon
