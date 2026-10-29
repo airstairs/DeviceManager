@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/DeviceManager/app/src/main/kotlin/com/xthan/devicemanager/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 4835,
+          "line": 120
+        },
+        "start": {
+          "column": 0,
+          "index": 4835,
+          "line": 120
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/DeviceManager/app/src/main/assets/script.js",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 9719,
+          "line": 223
+        },
+        "start": {
+          "column": 0,
+          "index": 9719,
+          "line": 223
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/DeviceManager/app/src/main/assets/script.js"
+}
