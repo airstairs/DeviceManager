@@ -1,0 +1,6 @@
+npm install --save electron
+npm install --save-dev @electron-forge/cli
+npm install --save-dev @electron-forge/maker-squirrel
+npm install --save electron-squirrel-startup
+
+npm run make
