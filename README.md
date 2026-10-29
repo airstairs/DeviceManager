@@ -21,4 +21,8 @@ pro tip... you gotta run installer until it adds desktop entry; then search for 
 
 pro tip... to uninstall right click and click uninstall from start menu, then uninstall from installed programs, and THEN delete DeviceManager folder in Username\appdata\local folder <3    
 
-pro tip... if you mess up uninstall run installer again until desktop menu item added, start menu available and then perform uninstall steps above <3    
+pro tip... if you mess up uninstall run installer again until desktop menu item added, start menu available and then perform uninstall steps above <3     
+
+
+
+pro tip... i made this one for the creator of 5.7 mini pc with keyboard <3 ybty
